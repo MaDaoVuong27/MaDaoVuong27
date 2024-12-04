@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## HELLO 👋
+- 🤓 I’m currently learning at HUST
+- ❤ I’m currently working on myself
+- 🤔 I’m looking for help with AI technology
+- 🍀 Fun fact: I love vivariums
 <!--
 **MaDaoVuong27/MaDaoVuong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
